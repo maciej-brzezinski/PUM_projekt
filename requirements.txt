@@ -1,7 +1,2 @@
-
-
-keras
 sklearn
-matplotlib
-seaborn
 streamlit
